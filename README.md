@@ -51,7 +51,7 @@ Use to find user of Github to hire and get in contact with!
 * [video how to work app](https://youtu.be/XmuNgnl5d2k)
 
 ## Questions
-* GitHub-username https://github.com/Gavin-Scot-Stockwell/CandidateSearch
+* GitHub-username https://github.com/Gavin-Scot-Stockwell/Candidate
 * Email-address gsstockwell@gmail.com
 
 
