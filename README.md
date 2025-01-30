@@ -53,7 +53,3 @@ Use to find user of Github to hire and get in contact with!
 ## Questions
 * GitHub-username https://github.com/Gavin-Scot-Stockwell/Candidate
 * Email-address gsstockwell@gmail.com
-
-
-# Company
-# CandidateSearch
