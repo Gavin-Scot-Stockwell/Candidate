@@ -19,7 +19,10 @@
 * A good way to find great Github users 
 
 ## Installation
-* Please visit the website!
+* Download the files
+* npm i to get packages
+* npm run build at root to build the dist
+* npm run start:dev to get it to run
 
 
 ## Usage
