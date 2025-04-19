@@ -1,58 +1,39 @@
-
 # Candidate Search
 
-## License
-[![Static Badge](https://img.shields.io/badge/License-Mit_License-name?style=flat&logo=%23512BD4&logoColor=%2300bfff&labelColor=%23add8e6&color=%2300bfff)](https://mit-license.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
 
-
-# Table Of Contents
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
-
+## Table of Contents
+- [Description](#description)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Description
-* A good way to find great Github users 
-
-## Installation
-* Download the files
-* npm i to get packages
-* npm run build at root to build the dist
-* npm run start:dev to get it to run
-
+Candidate Search is a tool to help you find and connect with great GitHub users, making it easier to hire talented developers.
 
 ## Usage
-Use to find user of Github to hire and get in contact with! 
-
-
-
+Access the application directly at [Candidate Finder](https://candidate-finder-vk0k.onrender.com). Use it to search for GitHub users, save them, and manage your candidate list.
 
 ## Contributing
-* Gavin Stockwell -ts and react
+**Gavin Stockwell** using TypeScript and React.
 
+### Features:
+1. **Search for Users**  
+   Clicking on the search button pulls new users.  
+   <img src="/img/search.PNG" alt="Search Example" width="400">
 
-## Tests
+2. **Add or Remove Users**  
+   Use the '+' and '-' buttons to add or remove users.  
+   <img src="/img/add.PNG" alt="Add/Remove Example" width="400">
 
+3. **View Saved Users**  
+   Navigate to the "Saved Users" section using the navigation bar.  
+   <img src="/img/saved.PNG" alt="Saved Users Example" width="400">
 
-* Clicking on search pull new users
-
-![image one showing how to click on green code button](./Assets/search.PNG)
-
-* '+' and '-' to remove the user
-
-![image one showing how to click on green code button](./Assets/minus.PNG)
-
-* Use the nav above to then look at the Saved users
-
-![image one showing how to click on green code button](./Assets/candidates.PNG)
-
-* Here is a video that shows how to use the website
-* [video how to work app](https://youtu.be/XmuNgnl5d2k)
+### Demo:
+Watch the [demo video here](https://youtu.be/XmuNgnl5d2k) to see how the application works.
 
 ## Questions
-* GitHub-username https://github.com/Gavin-Scot-Stockwell/Candidate
-* Email-address gsstockwell@gmail.com
+- GitHub: [Gavin-Scot-Stockwell](https://github.com/Gavin-Scot-Stockwell/Candidate)
+- Email: [gsstockwell@gmail.com](mailto:gsstockwell@gmail.com)
